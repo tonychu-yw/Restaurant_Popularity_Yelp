@@ -12,7 +12,7 @@ Consider the following scenario: you just opened a restaurant a few months ago, 
 
 ##### I-2. Research Question
 Our main research question is: how popular will a restaurant be in the future? Please note that this question is formed with caution. The popularity of a restaurant is not an unbiased estimator for the profitability of a restaurant. However, since (1) it is almost impossible to retrieve financial data from local restaurants (they are very unlikely to have standard income statements) and (2) financial status may be affected by several other issues that have no direct link to the service that a restaurant provides, we feel that it is more appropriate to use popularity instead of profitability to estimate how well a restaurant operates. We are more interested in researching the relationship between the growth of a restaurant provided by its current services. Given our popularity forecast, restaurant owners should be able to further calculate their own profitability easily. The following lists some sub-questions that we are interested in or we must deal with during our research:
-  ● How popular will a restaurant be in the future?
-  ● How to define popularity? That is, what is the appropriate metric for popularity?
-  ● What features can be used to predict popularity?
-  ● How do different features impact the performance of predictions?
+* How popular will a restaurant be in the future?
+* How to define popularity? That is, what is the appropriate metric for popularity?
+* What features can be used to predict popularity?
+* How do different features impact the performance of predictions?
