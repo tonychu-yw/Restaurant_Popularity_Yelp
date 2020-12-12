@@ -1,4 +1,4 @@
-# Popularity Forecast with Yelp Dataset
+# Restaurant Popularity Forecast with Yelp Dataset
 
 ### Note
 
