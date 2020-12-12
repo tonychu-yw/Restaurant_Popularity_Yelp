@@ -1,6 +1,6 @@
 # Restaurant Popularity Forecast with Yelp Dataset
 
-### Note
+### Preface
 
 This repo contains the group project for IMT 575 Data Science III at UW. The report is co-authored by Chiao-ya Chang, Chen Song, Tony Chu, and Xinyi Yang. 
 
