@@ -2,7 +2,7 @@
 
 ### Preface
 
-This repo contains the group project for IMT 575 Data Science III at UW. The report is co-authored by Chiao-ya Chang, Chen Song, Tony Chu, and Xinyi Yang. 
+This repo contains the group project for IMT 575 Data Science III at UW. The report (README.md) is co-authored by Chiao-ya Chang, Chen Song, Tony Chu, and Xinyi Yang. 
 
 ### I. Introduction
 Yelp is a public company that develops, hosts, and markets Yelp.com and Yelp mobile app, which publish crowd-sourced reviews about businesses. As a great platform choosing consumer activities, Yelp provides pages devoted to information about restaurants and stores, allowing users to use a one-to-five-star rating system to evaluate products and services and to provide meaningful and detailed reviews about their experience (Chafkin, 2010). On one hand, users can make their decisions between similar restaurants or services based on the ratings and reviews shown on the Yelp pages. On the other hand, business owners can get an overall assessment of their restaurant's performance based on the reviews and ratings on Yelp and they can also further leverage the same massive dataset to analyze users to generate business insights for wiser decisions. Our project goal is to predict the popularity of restaurants. We used several machine learning methods including logistic regression, Naive Bayes, xGBoost, CNN, and LSTM to make predictions of popularity.
