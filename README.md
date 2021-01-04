@@ -1,9 +1,5 @@
 # Restaurant Popularity Forecast with Yelp Dataset
 
-### Preface
-
-This repo contains the group project for IMT 575 - Data Science III at UW. Project collaborators are Chiao-ya Chang, Chen Song, Tony Chu, and Xinyi Yang. The final report was rearranged and summarized into **README.md**. The codes for analysis are stored in the **code** folder.  
-
 ### I. Restaurant Popularity
 Consider the following scenario: you just opened a restaurant a few months ago, and luckily it already had quite an amount of customers. However, since there are still a few seats left empty during mealtime, you wonder if your restaurant will continue to grow. Therefore, it would be great for you, the restaurant owner, to know how popular the restaurant will be in the future. If the restaurant cannot increase its popularity in the future and is still not making any profit, it might be better to halt the business now. We believe such a scenario happens quite often for many local restaurant owners, and the information garnered from Yelp should help business owners make those difficult business decisions. Besides, customers can choose a restaurant that is not only popular right now but also in the future, and investors can use data from yelp as reference to know whether a restaurant is worth an investment or not. 
 
