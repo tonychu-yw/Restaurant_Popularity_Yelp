@@ -17,3 +17,6 @@ We hope to answer the quesiton: *how popular will a restaurant be in the future?
 To define popularity, we use the following variables: average stars and the number of restaurant reviews. We subtract average stars by three for normalization and take natural log to reduce the effect of the high number of reviews and to minimize computational complexity. Thus, the formula of our popularity definition is: *popularity = (average star − 3) × log (number of reviews)*. In this project, we calculate the popularity of restaurants in 2019 on a yearly basis. That is, we use data in 2018 to predict how popular a restaurant will be in the year of 2019 (in a time interval manner). The following figure shows the distribution of restaurant popularity, which follows Gaussian distribution.
 
 Please note that we further converted continuous popularity scores to 5-class ordinal labels to help us make predictions easier since we faced major failures while predicting continuous outcomes. Our cut points are 20-quantiles, 40-quantiles, 60-quantiles, and 80-quantiles. We ranked 5 as the highest popularity (i.e., greater than 80 quantiles) and 1 as the lowest popularity (i.e., less than 20 quantiles).
+
+
+
